@@ -1,6 +1,9 @@
+---
+layout: post
+mathjax: true
+title: How to Employ Linear Regression from Sci-Kit Learn
+---
 
-
-# How to Employ Linear Regression from Sci-Kit Learn
 
 LInear regressions are models of the form:
     
