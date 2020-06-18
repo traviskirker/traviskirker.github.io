@@ -1,3 +1,5 @@
+
+
 # How to Employ Linear Regression from Sci-Kit Learn
 
 LInear regressions are models of the form:
@@ -10,7 +12,9 @@ To employ this model in sklearn, I need to first import it:
 
 
 ```python
-
+x=1
+x+x
+2
 ```
 
 
